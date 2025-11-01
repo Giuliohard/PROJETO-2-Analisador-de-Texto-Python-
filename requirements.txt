@@ -1,0 +1,2 @@
+# Este projeto não requer dependências externas
+# Python 3.6+ é suficiente
